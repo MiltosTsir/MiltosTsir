@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiltosTsir
+- 👋 Hi, I’m @Miltiadis_Tsirempolos
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projects
